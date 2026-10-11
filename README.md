@@ -11,16 +11,6 @@ TouchGrass Quest Lab explores whether an open-weight language model can generate
 
 Can Gemma generate practical outdoor quests and adapt them when time, environment, or activity constraints change?
 
-## Method
-
-1. Submit a prompt for a short outdoor quest.
-2. Try a second activity scenario.
-3. Try a plant-observation scenario.
-4. Ask the model to revise the plant quest for a five-minute, no-touch setting.
-5. Review the outputs against a simple qualitative rubric.
-
-The prompts and observed outputs are recorded in [`prompts/`](prompts/) and [`results/`](results/).
-
 ## Setup and reproducibility
 
 - Interface: Google AI Studio
@@ -52,6 +42,6 @@ Using an open-weight model family makes it possible for developers to explore mo
 
 ## Submission
 
-If publishing this work, link to the DEV post here: **[Add DEV post URL]**.
+Link to the DEV post here: ****.
 
 Suggested tags: `#devchallenge` `#hf26challenge`
